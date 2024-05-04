@@ -1,0 +1,8 @@
+json
+os
+flask
+joblib
+sklearn
+numpy 
+scipy
+blinker
